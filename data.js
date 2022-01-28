@@ -2565,4 +2565,11 @@ module.exports = [
       "Software Engineering",
     ],
   },
+  {
+    name: 'Mike Driscoll',
+    description: 'Python news, beginner to advanced tutorials, interviews and more',
+    url: 'https://www.blog.pythonlibrary.org/',
+    twitter: '@driscollis',
+    tags: ['Python', 'Programming', 'Backend', 'Frontend],
+}
 ];
